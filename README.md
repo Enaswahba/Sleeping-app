@@ -1,0 +1,2 @@
+. Project Overview
+The sleeping mobile application is designed to help users track their sleep patterns, improve sleep quality, and promote better sleep hygiene. The app provides features like sleep tracking, calming sleep sounds, personalized recommendations, and reminders for healthy sleep habits. The main objective is to improve users' overall well-being by enhancing their sleep experience through an intuitive and user-friendly interface.
